@@ -1,4 +1,4 @@
-No repositório tem os arquivos com o código do teste<br/>
+No repositório tem os arquivos com o código do teste e os<br/>
 Relatórios de casos de testes, usabilidade, responsividade e exploração<br/>
 
 Link do Notion:<br/>
