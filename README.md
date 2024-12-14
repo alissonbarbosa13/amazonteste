@@ -1,3 +1,1 @@
-"# testeamazon" 
-"# testeamazon" 
-"# amazonteste" 
+Teste Amazon QA
